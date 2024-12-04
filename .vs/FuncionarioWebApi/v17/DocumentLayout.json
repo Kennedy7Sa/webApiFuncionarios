@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\FuncionarioWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|c:\\projetos\\funcionariowebapi\\funcionariowebapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|solutionrelative:funcionariowebapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|c:\\projetos\\funcionariowebapi\\funcionariowebapi\\services\\funcionariosservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|solutionrelative:funcionariowebapi\\services\\funcionariosservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|c:\\projetos\\funcionariowebapi\\funcionariowebapi\\services\\funcionariosservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75997E8D-1C0C-4546-A895-47B9B5DD9224}|FuncionarioWebApi\\FuncionarioWebApi.csproj|solutionrelative:funcionariowebapi\\services\\funcionariosservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "FuncionarioWebApi\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "FuncionarioWebApi\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:27:00.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Services\\FuncionariosService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "FuncionarioWebApi\\Services\\FuncionariosService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Services\\FuncionariosService\\FuncionarioService.cs",
+              "RelativeToolTip": "FuncionarioWebApi\\Services\\FuncionariosService\\FuncionarioService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:31:45.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFuncionarioInterface.cs",
+              "DocumentMoniker": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Services\\FuncionariosService\\IFuncionarioInterface.cs",
+              "RelativeDocumentMoniker": "FuncionarioWebApi\\Services\\FuncionariosService\\IFuncionarioInterface.cs",
+              "ToolTip": "C:\\Projetos\\FuncionarioWebApi\\FuncionarioWebApi\\Services\\FuncionariosService\\IFuncionarioInterface.cs",
+              "RelativeToolTip": "FuncionarioWebApi\\Services\\FuncionariosService\\IFuncionarioInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:32:17.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
