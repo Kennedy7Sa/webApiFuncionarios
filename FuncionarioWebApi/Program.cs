@@ -12,6 +12,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//politica de cors
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("funcionariosApp", builder =>
+    {
+        builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
+
+
 //para a interface se comunicar com o  service 
 builder.Services.AddScoped<IFuncionarioInterface, FuncionarioService>();
 
@@ -29,6 +39,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("funcionariosApp");
 
 app.UseHttpsRedirection();
 

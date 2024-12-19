@@ -14,6 +14,6 @@ namespace FuncionarioWebApi.Models
 
         public TurnoEnum Turno { get; set; }
         public DateTime DataCriacao { get; set; } = DateTime.Now.ToLocalTime(); // pegando a data atual do sistema
-        public DateTime DataDeAlteração { get; set; } = DateTime.Now.ToLocalTime();
+        public DateTime DataDeAlteracao { get; set; } = DateTime.Now.ToLocalTime();
     }
 }

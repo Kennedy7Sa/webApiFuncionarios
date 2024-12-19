@@ -28,7 +28,7 @@ namespace FuncionarioWebApi.Services.FuncionariosService
 
                 }
                 
-                funcionario.DataDeAlteração = DateTime.Now.ToLocalTime();
+                funcionario.DataDeAlteracao = DateTime.Now.ToLocalTime();
 
                 _context.Funcionarios.Update(funcionarioEditado);
                 await _context.SaveChangesAsync();
@@ -119,7 +119,7 @@ namespace FuncionarioWebApi.Services.FuncionariosService
                                    
                 }
                 funcionario.Ativo = false;
-                funcionario.DataDeAlteração = DateTime.Now.ToLocalTime();
+                funcionario.DataDeAlteracao = DateTime.Now.ToLocalTime();
                 
                 _context.Funcionarios.Update(funcionario);
                 await _context.SaveChangesAsync ();
